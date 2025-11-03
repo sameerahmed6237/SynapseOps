@@ -62,7 +62,7 @@ A modern, highly-integrated application designed to **eliminate manual HR and IT
 
 
 ## 📁 Folder Structure
-
+````
 **SynapseOps/
 ├── Dashboard/      \# Frontend React/TypeScript application (The S3 Deployment)
 ├── Chatbot/        \# Separate codebase for the AWS Lex Chatbot UI
