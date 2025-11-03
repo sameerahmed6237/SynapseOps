@@ -106,7 +106,9 @@ The output in the dist/ folder is uploaded directly to AWS S3 static hosting.
 ````
 ## 🌐 Live Demo Access
 **Resource	Link**
+````
 Live Dashboard	🔗 http://onboarding-dashboard-ui.s3-website-us-east-1.amazonaws.com/
-Demo Video [(Google Drive)](https://drive.google.com/drive/folders/1Jc5hBiPkoo_eSIybTT8VHeVwzel89qaq?usp=sharing)	🎥 View Demo on Google Drive
+Demo Video [(Google Drive)](https://drive.google.com/drive/folders/1Jc5hBiPkoo_eSIybTT8VHeVwzel89qaq?usp=sharing)
+🎥 View Demo on Google Drive
 
 ```
