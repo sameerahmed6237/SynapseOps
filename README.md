@@ -95,7 +95,7 @@ A modern, highly-integrated application designed to **eliminate manual HR and IT
    git clone <repository-url>
    cd SynapseOps1/client
 Install Dependencies
-
+````
 bash
 npm install
 Build the Production Dashboard
@@ -103,7 +103,7 @@ Build the Production Dashboard
 bash
 npm run build
 The output in the dist/ folder is uploaded directly to AWS S3 static hosting.
-
+````
 ## 🌐 Live Demo Access
 **Resource	Link**
 Live Dashboard	🔗 http://onboarding-dashboard-ui.s3-website-us-east-1.amazonaws.com/
