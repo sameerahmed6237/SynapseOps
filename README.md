@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="./assets/logo.webp" alt="SynapseOps Logo" width="120"/>
   <br>
-  SynapseOps: Automated Onboarding Hub
+  SynapseOps 
+  Employee Onboarding Hub
 </h1>                                                                                      
 # 🚀 SynapseOps: 
 The Automated Employee Onboarding Hub
