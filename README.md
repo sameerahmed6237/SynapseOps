@@ -1,8 +1,11 @@
-                                                                                          ````
-                                                                                            (.assets/logo.webp)
-                                                                                            # 🚀 SynapseOps: 
-                                                                                            The Automated Employee Onboarding Hub
-                                                                                          ````
+<h1 align="center">
+  <img src="./assets/logo.webp" alt="SynapseOps Logo" width="120"/>
+  <br>
+  SynapseOps: Automated Onboarding Hub
+</h1>                                                                                      
+# 🚀 SynapseOps: 
+The Automated Employee Onboarding Hub
+                                                                                        
 
 A modern, highly-integrated application designed to **eliminate manual HR and IT overhead** during employee onboarding by orchestrating workflows, managing tasks, and providing a personalized dashboard for new hires.
 
