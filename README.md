@@ -33,7 +33,19 @@ A modern, highly-integrated application designed to **eliminate manual HR and IT
 
 ### 💬 Chatbot Integration
 
-- **Embedded AI Support:** Features an integrated assistant powered by [**AWS Lex**](https://aws.amazon.com/lex/) for real-time query resolution on common HR and IT onboarding topics.  
+- **Embedded AI Support:** Features an integrated assistant powered by [**AWS Lex**](https://aws.amazon.com/lex/) for real-time query resolution on common HR and IT onboarding topics.
+  
+## 🖼 Screenshots
+
+![Dashboard](./assets/Dashboard.png)  
+*The employee's personalized Onboarding Hub.*
+
+![Leave Management](./assets/LeaveWidget.jpg)  
+*Detailed Leave Management Widget showing Rollup calculations.*
+
+![Chatbot Welcome Screen!](./assets/Chatbot1.png)
+![Chatbot](./assets/Chatbot2.png)
+*Integrated AWS Lex Chatbot interaction.*
 
 ---
 
@@ -48,6 +60,17 @@ A modern, highly-integrated application designed to **eliminate manual HR and IT
 | **AI/Chatbot** | AWS Lex Runtime V2 |
 | **Hosting** | AWS S3 (Static Dashboard Hosting) |
 
+---
+## 📁 Folder Structure
+
+```
+
+**SynapseOps/
+├── Dashboard/      \# Frontend React/TypeScript application (The S3 Deployment)
+├── Chatbot/        \# Separate codebase for the AWS Lex Chatbot UI
+├── README.md       \# This document
+├── package.json    \# Project dependencies
+└── assets/         \# Images and logos**
 ---
 
 ## 📂 Project Structure
@@ -67,8 +90,6 @@ A modern, highly-integrated application designed to **eliminate manual HR and IT
 └── shared/          # Shared types and schemas
     └── schema.ts    # Database schema definitions
 ```
-
----
 
 ## ⚙️ Installation & Usage
 
@@ -90,3 +111,5 @@ The output in the dist/ folder is uploaded directly to AWS S3 static hosting.
 **Resource	Link**
 Live Dashboard	🔗 http://onboarding-dashboard-ui.s3-website-us-east-1.amazonaws.com/
 Demo Video [(Google Drive)](https://drive.google.com/drive/folders/1Jc5hBiPkoo_eSIybTT8VHeVwzel89qaq?usp=sharing)	🎥 View Demo on Google Drive
+
+```
