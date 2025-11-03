@@ -60,7 +60,7 @@ A modern, highly-integrated application designed to **eliminate manual HR and IT
 | **AI/Chatbot** | AWS Lex Runtime V2 |
 | **Hosting** | AWS S3 (Static Dashboard Hosting) |
 
----
+
 ## 📁 Folder Structure
 
 **SynapseOps/
@@ -69,8 +69,8 @@ A modern, highly-integrated application designed to **eliminate manual HR and IT
 ├── README.md       \# This document
 ├── package.json    \# Project dependencies
 └── assets/         \# Images and logos**
-````
-````
+
+
 ## 📂 Project Structure
 
 ├── client/          # Frontend React application
