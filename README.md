@@ -69,9 +69,10 @@ A modern, highly-integrated application designed to **eliminate manual HR and IT
 ├── README.md       \# This document
 ├── package.json    \# Project dependencies
 └── assets/         \# Images and logos**
-
+````
 
 ## 📂 Project Structure
+````
 
 ├── client/          # Frontend React application
 │   ├── src/
